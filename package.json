@@ -1,0 +1,12 @@
+{
+  "name": "emma-football-bot",
+  "version": "1.0.0",
+  "description": "Bot de fútbol con la personalidad de Emma Myers y el tono de La Cobra",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
